@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TractorSysApp", "TractorSysApp\TractorSysApp.csproj", "{4F3999D0-B73A-4AC7-86DF-E37BEB61F4F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TractorSysApp", "TractorSysApp.csproj", "{C094F271-C6F7-8874-8291-1F90EF783FF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F3999D0-B73A-4AC7-86DF-E37BEB61F4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F3999D0-B73A-4AC7-86DF-E37BEB61F4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F3999D0-B73A-4AC7-86DF-E37BEB61F4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F3999D0-B73A-4AC7-86DF-E37BEB61F4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C094F271-C6F7-8874-8291-1F90EF783FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C094F271-C6F7-8874-8291-1F90EF783FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C094F271-C6F7-8874-8291-1F90EF783FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C094F271-C6F7-8874-8291-1F90EF783FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {20E67D1D-56CE-44AD-82F7-4DB9D57A7104}
+		SolutionGuid = {36D9B13A-B241-4B1B-B054-306779852183}
 	EndGlobalSection
 EndGlobal
